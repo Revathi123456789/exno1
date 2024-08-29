@@ -123,22 +123,6 @@ z
 <img width="289" alt="image" src="https://github.com/user-attachments/assets/bd88aae5-a5a8-41a6-ba16-c1f072cfcf29">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Result
+# Result:
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
 
